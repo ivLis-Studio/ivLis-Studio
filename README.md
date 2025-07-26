@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ivl.is">
-    <img src="https://github.com/ivLis-Studio/ivLis-Studio/blob/main/images/profile.gif?raw=true" alt="ivLis" width="200px" />
+    <img src="https://github.com/ivLis-Studio/ivLis-Studio/blob/main/images/profile.webp?raw=true" alt="ivLis" width="200px" />
   </a>
 </p>
 
