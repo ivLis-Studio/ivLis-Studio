@@ -2,7 +2,11 @@
 
 <p align="center">
   <a href="https://ivl.is">
-    <img src="https://github.com/ivLis-Studio/ivLis-Studio/blob/main/images/profile.webp?raw=true&version=1" alt="ivLis" width="200px" />
+
+
+https://github.com/user-attachments/assets/439514f8-7ddd-4fc5-8354-8c8436b953e0
+
+
   </a>
 </p>
 
