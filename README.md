@@ -3,9 +3,7 @@
 <p align="center">
   <a href="https://ivl.is">
 
-
-https://github.com/user-attachments/assets/439514f8-7ddd-4fc5-8354-8c8436b953e0
-
+    ![Welcome to my github profile](https://github.com/user-attachments/assets/8e6504f4-249d-4a13-8176-1ea0fbfc7102)
 
   </a>
 </p>
