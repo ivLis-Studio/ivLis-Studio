@@ -1,16 +1,18 @@
 # 👋 Hello! I'm ivLis. [![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
 
-<p align="center">
-  <a href="https://ivl.is">
-
-    ![Welcome to my github profile](https://github.com/user-attachments/assets/8e6504f4-249d-4a13-8176-1ea0fbfc7102)
-
-  </a>
-</p>
 
 <p align="center">
   I'm a developer who loves PHP and Python.
   🚀 I strive for efficient and beautiful code.
+</p>
+
+
+<p align="center">
+  <a href="https://ivl.is">
+
+   <img src="https://github.com/user-attachments/assets/8e6504f4-249d-4a13-8176-1ea0fbfc7102" width="100%" height="auto" />
+
+  </a>
 </p>
 
 ---
