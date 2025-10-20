@@ -1,4 +1,4 @@
-# 👋 Hello! I'm ivLis. [![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
+# 👋 Hello! I'm ivLis. 
 
 
 <p align="center">
