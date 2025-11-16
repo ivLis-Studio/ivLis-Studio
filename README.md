@@ -6,15 +6,6 @@
   🚀 I strive for efficient and beautiful code.
 </p>
 
-
-<p align="center">
-  <a href="https://ivl.is">
-
-   <img src="https://github.com/user-attachments/assets/8e6504f4-249d-4a13-8176-1ea0fbfc7102" width="100%" height="auto" />
-
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
