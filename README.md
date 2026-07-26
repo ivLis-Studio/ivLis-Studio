@@ -2,9 +2,18 @@
 <br><br>
 
 
-
-<a href="https://discord.ivl.is/"><animated-image><img align="left" src="https://discord.ivl.is/widget/music/269983953199300610?profile=1" data-target="animated-image.originalImage"></animated-image></a>
+<a href="https://discord.ivl.is/">
+  <animated-image>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://discord.ivl.is/widget/music/269983953199300610?profile=1&dark=1" data-target="animated-image.originalImage">
+      <source media="(prefers-color-scheme: light)" srcset="https://discord.ivl.is/widget/music/269983953199300610?profile=1" data-target="animated-image.originalImage">
+      <img alt="기본 이미지" src="https://discord.ivl.is/widget/music/269983953199300610?profile=1">
+    </picture>
+  </animated-image>
+</a>
 뭔가추가예정
+
+
 <br>
 <a href="#" style="cursor:default"><img src="./profile-3d-contrib/profile-green-animate.svg" width="66%" /></a>
 
