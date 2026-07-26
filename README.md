@@ -1,10 +1,12 @@
 <a href="#" style="cursor:default">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/467fdb1b-8ca7-488d-8e08-b9d8b1a82897" width="200px">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/86cee202-242f-44f0-b05b-dbf0c64fdabf" width="200px">
-    <img src="https://github.com/user-attachments/assets/86cee202-242f-44f0-b05b-dbf0c64fdabf" width="200px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f1e1e55b-9416-4b0b-9f05-3e5eae8f88d6" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9ac90d95-a08f-454d-8631-216fabd91ca4" width="100%">
+    <img src="https://github.com/user-attachments/assets/9ac90d95-a08f-454d-8631-216fabd91ca4" width="200px">
   </picture>
 </a>
+
+
 
 <br><br>
 
