@@ -1,3 +1,2 @@
-<a href="https://discord.ivl.is/"><animated-image data-catalyst="" style="float: left; margin-top: 40px;"><img align="left" src="https://discord.ivl.is/widget/music/269983953199300610?profile=1" width="25%" style="display: inline-block; margin-top: 30px;" data-target="animated-image.originalImage"></animated-image></a><a href="#" style="cursor:default"><img src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right"/></a>
-<br><br>
-<a href="#" style="cursor:default"><img width="360px" src="https://github.com/user-attachments/assets/00a8242c-b03b-4557-a402-ebd011c7f2a7" /></a>
+<a href="https://discord.ivl.is/"><animated-image><img align="left" src="https://discord.ivl.is/widget/music/269983953199300610?profile=1" width="26%" data-target="animated-image.originalImage"></animated-image></a>
+<a href="#" style="cursor:default"><img src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right"/></a>
