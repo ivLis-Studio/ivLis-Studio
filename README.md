@@ -1,4 +1,11 @@
-<a href="#" style="cursor:default"><img width="360px" src="https://github.com/user-attachments/assets/00a8242c-b03b-4557-a402-ebd011c7f2a7" /></a>
+<a href="#" style="cursor:default">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/467fdb1b-8ca7-488d-8e08-b9d8b1a82897" width="200px">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/86cee202-242f-44f0-b05b-dbf0c64fdabf" width="200px">
+    <img src="https://github.com/user-attachments/assets/86cee202-242f-44f0-b05b-dbf0c64fdabf" width="200px">
+  </picture>
+</a>
+
 <br><br>
 
 
