@@ -7,7 +7,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://discord.ivl.is/widget/music/269983953199300610?profile=1&dark=1" data-target="animated-image.originalImage">
       <source media="(prefers-color-scheme: light)" srcset="https://discord.ivl.is/widget/music/269983953199300610?profile=1" data-target="animated-image.originalImage">
-      <img alt="기본 이미지" src="https://discord.ivl.is/widget/music/269983953199300610?profile=1">
+      <img src="https://discord.ivl.is/widget/music/269983953199300610?profile=1">
     </picture>
   </animated-image>
 </a>
