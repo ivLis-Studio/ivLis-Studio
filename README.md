@@ -11,8 +11,7 @@
   </a>
 </p>
 
-
-<br><br>
+<br>
 
 
 <p align="center">
@@ -31,8 +30,13 @@
   </picture>
 </a>
 </p>
-
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://discord.ivl.is/widget/profile/269983953199300610?layout=inline&bg=%23111827&text=%23ffffff&accent=%235865f2&bgOpacity=0&textOpacity=100&fontScale=100&maxRoles=1&radius=0&hideEyebrow=1&hideHandle=1&hideRoles=1&hideDiscordIcon=1&deviceIcons=1" width="80%">
+    <source media="(prefers-color-scheme: light)" srcset="https://discord.ivl.is/widget/profile/269983953199300610?layout=inline&bg=%23111827&text=%23000002&accent=%235865f2&bgOpacity=0&textOpacity=100&fontScale=100&maxRoles=1&radius=0&hideEyebrow=1&hideHandle=1&hideRoles=1&hideDiscordIcon=1&deviceIcons=1" width="80%">
+    <img src="https://discord.ivl.is/widget/profile/269983953199300610?layout=inline&bg=%23111827&text=%23000002&accent=%235865f2&bgOpacity=0&textOpacity=100&fontScale=100&maxRoles=1&radius=0&hideEyebrow=1&hideHandle=1&hideRoles=1&hideDiscordIcon=1&deviceIcons=1" style="width:80%;">
+  </picture>
+</p>
 <br>
 <br>
 
